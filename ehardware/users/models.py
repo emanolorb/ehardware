@@ -22,7 +22,7 @@ class User(AbstractUser):
     first_name = None  # type: ignore[assignment]
     last_name = None  # type: ignore[assignment]
     email = EmailField(_("email address"), unique=True)
-    curp = CharField(_("CURP"), blank=True, max_length=18, unique=True)
+    curp = CharField(_("CURP"), blank=True, null=True, max_length=18, unique=True)
     username = None  # type: ignore[assignment]
 
     USERNAME_FIELD = "email"
