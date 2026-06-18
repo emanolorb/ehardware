@@ -87,6 +87,7 @@ THIRD_PARTY_APPS = [
 LOCAL_APPS = [
     "ehardware.users",
     "ehardware.products",
+    "ehardware.address",
     "ehardware.cards",
     # Your stuff: custom apps go here
 ]
