@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=ehardware
+POSTGRES_USER=LPhjSpdoudMcZjCMGpamblNWjAmlyHfb
+POSTGRES_PASSWORD=aCwB6fm9n7OICaIvh4KssmPIWojRm907uH6a1dRcy8rrIOfdXvw20hxIW75Tdtmz
